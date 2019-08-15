@@ -1,4 +1,4 @@
-package com.WitcherModShop.WitcherModShop;
+package com.WitcherModShop;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
